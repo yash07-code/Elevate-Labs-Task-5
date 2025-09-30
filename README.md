@@ -26,6 +26,6 @@ By working with this project, you will learn:
 - How Git enhances team collaboration  
 - The importance of clear task management in projects  
 - Basics of integrating DevOps tools into version-controlled workflows  
-<img width="1867" height="1008" alt="Screenshot from 2025-09-21 15-14-43" src="https://github.com/user-attachments/assets/f6cc21d0-aeaf-4df9-9315-366d14bbeb4b" />
+
 
 
