@@ -1,8 +1,6 @@
 # Elevate Labs Task 5
 
----
-
-## 🌟 Project Goals
+## Project Goals
 - Demonstrate Git usage in a real-world DevOps setup  
 - Maintain clean and structured repositories  
 - Provide documentation for workflows and tasks  
@@ -10,16 +8,14 @@
 - Act as a learning base for students and DevOps beginners  
 
 ---
-
-## 🔑 Key Features
+## Key Features
 - **Version Control:** Every change is tracked using Git for full history and collaboration.  
 - **Documentation Driven:** Clear records of tasks and workflows for easy onboarding.  
 - **Scalability:** Repository design can easily expand with new tools and practices.  
 - **Automation Ready:** Supports integration with CI/CD pipelines and containerization tools.  
 
 ---
-
-## 📘 Learning Outcomes
+## Learning Outcomes
 By working with this project, you will learn:
 - How to structure a DevOps repository  
 - Best practices for writing and maintaining documentation  
