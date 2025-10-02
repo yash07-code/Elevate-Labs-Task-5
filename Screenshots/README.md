@@ -13,6 +13,7 @@ kubectl get deployments
 kubectl apply -f service.yaml
 kubectl get svc
 
+###Delete the Deployment 
 kubectl delete -f deployment.yaml -f service.yaml
 minikube stop
 minikube delete
